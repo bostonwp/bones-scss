@@ -1,0 +1,3 @@
+[submodule "library/wp-sass"]
+	path = library/wp-sass
+	url = git@github.com:sanchothefat/wp-sass.git
