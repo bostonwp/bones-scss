@@ -5,7 +5,7 @@ Bones-SCSS
 
 ## Built-In SCSS Compilation & Deployment
 
-This fork of the [Bones WordPress starter theme](https://github.com/eddiemachado/bones) has been enhanced with the [wp-css](https://github.com/sanchothefat/wp-sass) module in order to ease development and deployment of stylesheets using [SCSS](http://sass-lang.com/). Because this fork is SCSS-oriented, the LESS stylesheets have been removed.
+This fork of the [Bones WordPress starter theme](https://github.com/eddiemachado/bones) has been enhanced with the [wp-sass](https://github.com/sanchothefat/wp-sass) module in order to ease development and deployment of stylesheets using [SCSS](http://sass-lang.com/). Because this fork is SCSS-oriented, the LESS stylesheets have been removed.
 
 ### Support for Bones-SCSS
 
