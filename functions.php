@@ -10,6 +10,13 @@ sidebars, comments, ect.
 
 /************* INCLUDE NEEDED FILES ***************/
 
+
+/*
+0. library/wp-sass/wp-sass.php
+    - permit directly enqueuing SCSS-formatted stylesheets
+*/
+require_once( 'library/wp-sass/wp-sass.php' );
+
 /*
 1. library/bones.php
     - head cleanup (remove rsd, uri links, junk css, ect)
